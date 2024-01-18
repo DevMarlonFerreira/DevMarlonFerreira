@@ -2,6 +2,9 @@
 
 Full Stack Developer
 
+[![Linkedin: marlon](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlon-ferreira-98391b1b5/)](https://www.linkedin.com/in/marlon-ferreira-98391b1b5/)
+
+
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
